@@ -8,10 +8,26 @@
 	background-image: linear-gradient(to right top, #d16ba5, #cc86bf, #c79ed2, #c5b5de, #cbc9e4, #cbd2ed, #ccdcf4, #cee5fa, #b6eaff, #98f0ff, #78f6ff, #5ffbf1);
 }
 
+.name{
+	font-weight: bold;
+	color: darkred;
+}
+
+.titleFont{
+	font-family: 'Lobster', cursive;
+	font-size: 75px;
+}
+
 #aboutMe{
 	background-image: url("./images/beach.jpg");
 	background-repeat: no-repeat;
-}
+	}
+
+/*#projects{
+	background-image: url("./images/bg2.jpg");
+	background-repeat: no-repeat;
+	}
+/
 
 
 body{
