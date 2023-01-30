@@ -20,8 +20,7 @@
 
 #aboutMe{
 	background-image: url("./images/beach.jpg");
-	background-size: auto;
-	background-position: bottom;
+	background-size: auto 100%;
 	background-repeat: no-repeat;
 	}
 
